@@ -34,5 +34,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Carrega o conteúdo inicial (opcional)
-    loadContent('../pages/sobremim.html'); // Define a página inicial carregada na div.container
+    loadContent('sobremim.html'); // Define a página inicial carregada na div.container
 });
